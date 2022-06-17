@@ -2,7 +2,7 @@ function navbar() {
   return ` <div class="header">
   <div class="logo">
   <a href="index.html"><img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Myntra_logo.png"
+      src="https://images.indianexpress.com/2021/01/myntra.png"
       alt="Myntra"
       height="32px"
       width="40px"
