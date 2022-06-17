@@ -1,7 +1,7 @@
 function navbar() {
   return ` <div class="header">
   <div class="logo">
-  <a href="home.html"><img
+  <a href="index.html"><img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Myntra_logo.png"
       alt="Myntra"
       height="32px"

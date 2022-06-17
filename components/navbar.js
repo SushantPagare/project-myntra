@@ -94,7 +94,7 @@ function navbar() {
         </div>
       </li>
       <li>
-        <a href="Women.html" class="menu-item-2">WOMEN</a>
+        <a href="index.html" class="menu-item-2">WOMEN</a>
         <div class="mega-menu">
           <div class="content">
             <div class="col">
@@ -263,7 +263,7 @@ function navbar() {
         </div>
       </li>
       <li>
-        <a href="Home&Living.html" class="menu-item-4">HOME & LIVING</a>
+        <a href="index.html" class="menu-item-4">HOME & LIVING</a>
         <div class="mega-menu">
           <div class="content4">
             <div class="col">
@@ -549,7 +549,7 @@ function navbar() {
   </div>
   
   <div>
-    <a href="WishList.html">
+    <a href="index.html">
       <img
         id="svg"
         src="https://www.svgrepo.com/show/14970/heart.svg"
