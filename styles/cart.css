@@ -91,7 +91,9 @@
 #dataDiv img {
   width: 100%;
 }
-
+#promo{
+  border: 1px solid pink;
+}
 #dataDiv.brandname {
   font-size: 16px;
   font-weight: 500;
