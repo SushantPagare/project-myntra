@@ -1,6 +1,6 @@
 function navbar() {
     return ` <header class="header">
-    <a style="margin-left: 27px;cursor:pointer;" href="index.html" class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Myntra_logo.png" alt=""></a>
+    <a style="margin-left: 27px;cursor:pointer;" href="index.html" class="logo"><img src="https://imgeng.jagran.com/images/2021/jan/Myntra-805x530-1-700x4611611985286383.jpg" alt=""></a>
   <nav>
     <ul class="menu-items">
       <li>
